@@ -12,6 +12,7 @@ greenlet = "^2.0.2"
 psycopg2-binary = "^2.9.5"
 prefect-sqlalchemy = "^0.2.3"
 prefect-gcp = "^0.2.6"
+protobuf = "^4.21.12"
 
 [tool.poetry.dev-dependencies]
 

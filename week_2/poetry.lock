@@ -1196,7 +1196,7 @@ testing = ["pytest (>=6)", "pytest-checkdocs (>=2.4)", "flake8 (<5)", "pytest-co
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "19f363c4dbb3184544b867203c59be85d5cf076c877c8860c5903781793c6bec"
+content-hash = "b7b5f6eb9e8c17ff43983bbf3a71fb3ee9cef12e4d79d04ca87bd959105a9184"
 
 [metadata.files]
 aiosqlite = [
